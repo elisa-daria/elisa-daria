@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🧜‍♀️ Hey there, I’m Elisa Daria (she/they)
 
-<!--
-**elisa-daria/elisa-daria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌈 Queer mermaid & full-stack developer who loves clean design, inclusive tech, and small details that make the web feel human.  
+Currently working as a **Frontend Developer at [Titanka!](https://www.titanka.com)**.
 
-Here are some ideas to get you started:
+I’m not super active here, but you can peek at a few projects I’ve built —  
+the main one being **[MoodWatch](https://mood-watch.vercel.app/)** 🎬  
+An app that suggests movies & series based on your vibe of the moment.  
+Backend lives [here](https://github.com/elisa-daria/be-mood_watch).  
+There’s also a **queer media database** feature already in progress —  
+partially built, and (probably) gonna get more love when I find the time 🕐 —  
+aimed at making titles searchable by **queer tropes and representation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly playing with **HTML · CSS · SASS · JS · React · Java**,  
+and always learning something new along the way.  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/elisa-daria-tomasi)
