@@ -3,7 +3,7 @@
 🌈 Queer mermaid & web developer jr who loves clean design, inclusive tech, and small details that make the web feel human.  
 Currently working as a <strong>Frontend Developer at 
 <a href="https://www.titanka.com" target="_blank" style="color:#f4912f; text-decoration: none; text-transform: uppercase;">
-Titanka!</a></strong>.
+Titanka!</a></strong>
 
 I’m not super active here, but you can peek at a few projects I’ve built —  
 the main one being 
